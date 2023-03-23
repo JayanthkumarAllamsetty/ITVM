@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ContrastIQ'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA6D151E6C054D0E81FF88C114A0DDBA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_722A5D36DC814DF5A22B91E31C7CB506 }}
           package: .
